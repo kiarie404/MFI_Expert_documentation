@@ -1,0 +1,1 @@
+This is a feature on the security tab that allows the administrator to create and manage Users as well as their Roles in the system.
