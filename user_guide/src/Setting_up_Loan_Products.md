@@ -1,0 +1,31 @@
+- On the main menu click on general setup tab.
+- On the drop down menu click on loan products.
+- On the loan products page click on new loan product.
+- On the table that appears type in the product name.
+- Specify the product category I.e loans,refinance.
+- Enter the product level I.e level 1/2 according to what the Sacco offers.
+- Check the allow top up tab if you accommodate loan top ups.
+- Check the allow partial tab to allow disbursal in bits.
+- Check the stock based tab if you are delivering an item to the customer instead of money.
+- Indicate if there is any interest to be charged on the product.
+- Indicate the interest type I.e reducing, flat.
+- Indicate the interest rate per annum.
+- Select the amortization frequency.
+- Indicate the installment frequency either weekly, monthly.
+- Indicate the installment grace period if you offer any.
+- Enter the fixed charge on installment.
+- Key in the receivable account for the loan.
+- Indicate also the charge receivables account for the charges.
+- Indicate the interest accounts.
+- Key in the write-off principle account.
+- Key in the write-off interest account.
+- For instances of m-pesa payments put an m-pesa identifier.
+- Indicate the delinquency grace days if you offer any.
+- Click on the save button to create the loan product. 
+- 
+
+- Click on the loan products tab and select the newly created product I.e main loan.
+- On the main loan page that opens click on the charges tab at the top bar .
+- Add the charges that apply on this loan product.
+- Click on the save button to add the charges.
+

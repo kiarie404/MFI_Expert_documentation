@@ -1,0 +1,5 @@
+- Still on the Security tab click on manage roles.
+- On the pop up screen click on the new roles tab on the top left bar.
+- On the table that appears enter the description of the role you want to create.
+- Under the permissions bar check all the permissions you want to give to this role in all the groups I.e dashboard, general setup…
+- Click on the save button and the role is created.
