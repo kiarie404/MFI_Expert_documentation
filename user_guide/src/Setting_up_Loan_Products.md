@@ -28,4 +28,16 @@
 - On the main loan page that opens click on the charges tab at the top bar .
 - Add the charges that apply on this loan product.
 - Click on the save button to add the charges.
+- 
 
+- Again on the newly created loan product I.e main loan. 
+- Click on the loan limits & terms for the loan product.
+- On this page enter the minimum amount to lend and indicate the minimum and maximum installments for repayment.
+- Enter the maximum amount to lend and also indicate the minimum and maximum installments for the same.
+- Click on the save button to add the limits and terms.
+- 
+
+
+- On the same loan product page click on the branches tab on the top bar.
+- Select the branch under which you want the loan product.
+- Click on the save button for it to apply.
