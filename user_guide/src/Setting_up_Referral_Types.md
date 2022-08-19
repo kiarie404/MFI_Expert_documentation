@@ -1,4 +1,8 @@
 # Setting up Referral Types #
+![How to setup a new referral type on the mfiexpert system](./images/Referral_types_setup.png "Setting up Referral Types")
+***Setting up Referral Types***
+
+
 - On the main menu click on general setup.
 - On the drop down menu select referral type setup tab.
 - On the referral type setup page click on new referral type tab at the top bar.
