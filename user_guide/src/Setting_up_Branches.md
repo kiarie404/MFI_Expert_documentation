@@ -1,3 +1,4 @@
+# Setting up Branches #
 - On the main menu click on general setup tab.
 - On the general setup tab drop down click on branches.
 - On the branches page click on new branch at the top left bar.

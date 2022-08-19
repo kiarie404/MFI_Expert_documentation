@@ -1,3 +1,4 @@
+# Onboarding a New Customer #
 - Under the customer setup tab on the main menu click on customers tab.
 - On the pop up page click on new customer tab at the top left edge. 
 - On the new page enter the full names of the client. 
