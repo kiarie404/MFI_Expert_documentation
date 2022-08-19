@@ -1,4 +1,5 @@
-On the main menu the general setup tab enables the administrator to customize the system in accordance to the needs of his company.<br> 
+# General Configurations #
+On the main menu the general setup feature enables the administrator to customize the system in accordance to the needs of his/her company.<br> 
 This feature allows creation of:<br>
      1. Regions<br>
      2. Branches<br>

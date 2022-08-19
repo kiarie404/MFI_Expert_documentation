@@ -1,3 +1,4 @@
+# Onboarding New Customer Groups #
 - On the main menu click on the customer setup tab.
 - Under customer setup click on Groups.
 - On the groups page click on new customer group at the top bar.
@@ -14,7 +15,7 @@
 
 
 
-Document Uploads
+  Document Uploads
 
 - At the bottom right of the page click on the documents tab to upload the necessary files
 - On the pop up page select the template you want to add i.e. group pin certificate

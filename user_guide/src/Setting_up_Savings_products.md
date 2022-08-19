@@ -1,4 +1,4 @@
-
+# Setting up Saving Products #
 - On the main menu click on general setup. 
 - On the general setup drop down click on savings. products.
 - On the page that appears click on new savings product at the top left of your page.
@@ -10,13 +10,8 @@
 - Indicate the interest rate to be applied accordingly.
 - Indicate the amortization period as either daily, monthly…
 - If there is an interest on the product indicate the GL account for it.
-- Click on the save button to create the product. <br>
- <br>
-  <br>
-  
-
-
-
+- Click on the save button to create the product.
+## Setting up Charges ## 
 
 
 - On the savings product page click on the newly created product I.e *Christmas Savings*.

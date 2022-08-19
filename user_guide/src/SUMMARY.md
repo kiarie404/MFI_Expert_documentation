@@ -1,10 +1,11 @@
 # Summary
 
 [Introduction](introduction.md)
+---
 - [Web App](./web_app.md)
   - [Handling Users](Handling_Users.md)
-    - [Register new User](New_user.md)
-    - [Assigning Roles to a user](./User_Roles.md)
+    - [Creating User Roles](./User_Roles.md)
+    - [Register New User](./New_user.md)
   - [General Configurations](./General_Configurations.md)
     - [Setting Up Regions](Setting_up_Regions.md)
     - [Setting Up Branches](./Setting_up_Branches.md)
@@ -18,10 +19,13 @@
   - [Setting Up Referral Types](./Setting_up_Referral_Types.md)
   - [Setting Up Referral Type List](./Setting_up_Referral_Type_lists.md)
   - [Customer Setup](./Customer_setup.md)
-    - [Handling Customer Groups](./Handling_customer_Groups.md)
+    - [Onboarding Customer Groups](./Onboarding_customer_Groups.md)
     - [Onboarding Customers](./Onboarding_Customers.md)
     - [Customer Loan Accounts](./Customer_Loan_Accounts.md)
     - [Customer Loan Disbursals](./Customer_Loan_Disbursals.md)
+    - [Customer Modifications](./Customer-Modifications.md)
+    - [Group Modifications](./Group-Modifications.md)
+    - [Loan Officer Targets](./Loan_Officer_Targets.md)
     - [Collateral Tracking](./Collateral_Tracking.md)
     - [Cheques Tracking](./Cheques_Tracking.md)
   - [Customer Transactions](./Customer_Transactions.md)
@@ -33,5 +37,11 @@
     - [Adjustments](./Adjustments.md)
     - [Importing Transactions](./importing_Transactions.md)
     - [Branch Movements](./Branch-movements.md)
+  
+------
+
 - [Mobile App](mobile_app.md)
+
+------
+
 - [For The Admin]()

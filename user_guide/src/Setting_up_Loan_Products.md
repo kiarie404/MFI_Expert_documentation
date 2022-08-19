@@ -1,3 +1,4 @@
+# Setting up Loan Products #
 - On the main menu click on general setup tab.
 - On the drop down menu click on loan products.
 - On the loan products page click on new loan product.
@@ -22,20 +23,21 @@
 - For instances of m-pesa payments put an m-pesa identifier.
 - Indicate the delinquency grace days if you offer any.
 - Click on the save button to create the loan product. 
-- 
+
+   ## Adding Charges ##
 
 - Click on the loan products tab and select the newly created product I.e main loan.
 - On the main loan page that opens click on the charges tab at the top bar .
 - Add the charges that apply on this loan product.
 - Click on the save button to add the charges.
-- 
-
+  
+  ## Setting Loan limits & limits ##
 - Again on the newly created loan product I.e main loan. 
 - Click on the loan limits & terms for the loan product.
 - On this page enter the minimum amount to lend and indicate the minimum and maximum installments for repayment.
 - Enter the maximum amount to lend and also indicate the minimum and maximum installments for the same.
 - Click on the save button to add the limits and terms.
-- 
+  ## Selecting the Branch ## 
 
 
 - On the same loan product page click on the branches tab on the top bar.
