@@ -45,3 +45,7 @@
 ------
 
 - [For The Admin]()
+  - [Test Youtube Embedding](youtube_embedding.md)
+  - [Test .GIF embeddings](gif_embedding.md)
+  - [Test Image embeddings](img_embedding.md)
+
