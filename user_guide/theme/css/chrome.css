@@ -552,6 +552,7 @@ ul#searchresults span.teaser em {
 
 /* my own */
 .content {
-    display: grid;
+    display: flex;
+    flex-direction: column;
     height: 100%;   /* this line ensures each page is not cut when printing to pdf */
 }
