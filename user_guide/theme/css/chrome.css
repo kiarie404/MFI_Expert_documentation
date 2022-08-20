@@ -89,6 +89,14 @@ a > .hljs {
     align-items: center;
 }
 
+.logo_picture{
+    width: 100%;
+    height: 24px;
+    max-width: auto;
+    max-height: auto;
+    border-radius: 50%;
+}
+
 .left-buttons {
     display: flex;
     margin: 0 5px;
