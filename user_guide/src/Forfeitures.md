@@ -1,4 +1,4 @@
-# How to perform Forfeitures #
+# How to perform Forfeitures
 - On the main menu select customer transactions.
 - On the drop down menu select forfeitures. 
 - On the forfeitures page click on new forfeiture tab at the top left bar.

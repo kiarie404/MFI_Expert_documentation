@@ -1,1 +1,1 @@
-#  Customizing GL Accounts #
+#  Customizing GL Accounts

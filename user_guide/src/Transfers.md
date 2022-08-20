@@ -1,4 +1,4 @@
-# How to perform Transfers #
+# How to perform Transfers
 
 - On the main menu click on the customer transactions tab.
 - On the drop down menu select transfers.

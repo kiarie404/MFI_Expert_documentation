@@ -1,4 +1,4 @@
-# How to make Group Modification #
+# How to make Group Modification
 - On the main menu click on customer setup tab.
 - On the drop down menu click on the group modification tab.
 - On the group modification page click on the new modification tab at the top left bar.
