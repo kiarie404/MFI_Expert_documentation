@@ -7,6 +7,7 @@ title = "MFI Expert User Guide"
 
 #  A description for the book, which is added as meta information in the html <head> of each page
 description = "MFI Expert user Documentation and Guide"
+some_unique_variable = "ha ha ha"
 
 
 [output.html.print]
