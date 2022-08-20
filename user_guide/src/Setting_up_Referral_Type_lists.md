@@ -1,4 +1,6 @@
 # Setting up Referral Type Lists #
+![How to setup referral type lists on the mfiexpert system](./images/Referral_type_lists.png "Referral Type Lists Setup")
+***Setting up Referral Type Lists***
 
 - On the main menu click on general setup.
 - On the drop down menu select referral type list tab.

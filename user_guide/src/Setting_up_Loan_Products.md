@@ -1,4 +1,7 @@
 # Setting up Loan Products #
+![How to setup a loan product on mfiexpert system](./images/Loan_Products.png "Loan Product Setup")
+***Loan Product Setup***
+
 - On the main menu click on general setup tab.
 - On the drop down menu click on loan products.
 - On the loan products page click on new loan product.
@@ -25,19 +28,27 @@
 - Click on the save button to create the loan product. 
 
    ## Adding Charges ##
+   ![How to assign charges to a loan product on mfiexpert system](./images/Assigning_Charges.png "Assigning Charges to a loan product")
+***Adding Charges to a Loan Product***
+
 
 - Click on the loan products tab and select the newly created product I.e main loan.
 - On the main loan page that opens click on the charges tab at the top bar .
 - Add the charges that apply on this loan product.
 - Click on the save button to add the charges.
   
-  ## Setting Loan limits & limits ##
+  ## Setting Loan Limits & Terms ##
+  ![How to assign loan limits & Terms to a loan product](./images/Assigning_Loan_Limits_&_Terms.png "Assigning Loan Limits & Terms")
+***Assigning Loan Limits & Terms to a Loan Product***
+
 - Again on the newly created loan product I.e main loan. 
 - Click on the loan limits & terms for the loan product.
 - On this page enter the minimum amount to lend and indicate the minimum and maximum installments for repayment.
 - Enter the maximum amount to lend and also indicate the minimum and maximum installments for the same.
 - Click on the save button to add the limits and terms.
   ## Selecting the Branch ## 
+![How to assign a loan product to a branch on the mfiexpert system](./images/Assigning_Loan_product_to_Branches.png "Assigning Branches")
+***Assigning a Loan Product to a Branch ***
 
 
 - On the same loan product page click on the branches tab on the top bar.
