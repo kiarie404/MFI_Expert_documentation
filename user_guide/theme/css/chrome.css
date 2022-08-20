@@ -553,5 +553,5 @@ ul#searchresults span.teaser em {
 /* my own */
 .content {
     display: grid;
-    height: 100%;   /* this line ensures each page is not cut when printing to pdf
+    height: 100%;   /* this line ensures each page is not cut when printing to pdf */
 }
