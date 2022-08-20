@@ -16,3 +16,9 @@ page-break = true # insert page-break after each chapter
 [output.html.fold]
 enable = true    # whether or not to enable section folding
 level = 0         # the depth to start folding
+
+[output.html]
+theme = "theme"
+default-theme = "Navy"
+preferred-dark-theme = "Navy"
+

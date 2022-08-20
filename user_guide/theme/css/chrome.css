@@ -76,10 +76,17 @@ a > .hljs {
 }
 
 .right-buttons {
+    display: flex;
     margin: 0 15px;
 }
 .right-buttons a {
     text-decoration: none;
+}
+
+.logo_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .left-buttons {

@@ -154,7 +154,21 @@
                         </a>
                         {{/if}}
 
+                        {{!-- Logo_button --}}
+                        <a class="logo_container" href="{{git_repository_edit_url}}" title="Suggest an edit" aria-label="Suggest an edit">
+                            <img src="./images/exact_logo.jpg" alt="" style="width: 24px; height: 24px; max-width: 100px; max-height: 100px; border-radius: 50%;" >
+                        </a>
+                        {{!-- end of logo_button --}}
+
+                        
+                        {{!-- <a href="{{git_repository_edit_url}}" title="Suggest an edit" aria-label="Suggest an edit"
+                            style="background-color: red;">
+                            <button class="button" style="height: 100%; background-color: black;"><img src="./images/exact_logo.jpg"
+                                    alt=""></button>
+                        </a> --}}
+
                     </div>
+                    
                 </div>
 
                 {{#if search_enabled}}
