@@ -1,4 +1,4 @@
- # How to create a New Loan #
+ # How to create a New Loan
 - On the main menu click on the customer setup tab.
 - On the drop down menu that appears select on loan accounts tab.
 - On the loan accounts page click on new loan tab at the top left bar.

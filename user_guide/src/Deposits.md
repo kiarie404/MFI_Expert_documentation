@@ -1,4 +1,4 @@
-# How to initiate Customer Deposits #
+# How to initiate Customer Deposits
 - On the main menu click on customer transactions tab.
 - On the drop down menu select deposits.
 - On the pop up page click on new deposits on the top left bar.

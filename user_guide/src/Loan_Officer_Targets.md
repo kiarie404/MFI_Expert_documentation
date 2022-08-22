@@ -1,4 +1,4 @@
-# Loan Officer Targets #
+# Loan Officer Targets
 - On the main menu click on customer setup tab.
 - On the drop down menu select loan officer targets tab.
 - On this page a list of all loan officers will appear.

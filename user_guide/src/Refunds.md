@@ -1,4 +1,4 @@
-# How to make Refunds #
+# How to make Refunds
 - On the main menu click on the customer transactions tab.
 - On the drop down menu select refunds tab.
 - On the refunds page that opens click on new refund tab at the top left bar.

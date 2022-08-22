@@ -1,4 +1,4 @@
-# How to make Branch Movements #
+# How to make Branch Movements
 - On the main menu click on customer transactions.
 - On the drop down menu select branch movements.
 - On the customer branch movements page click on new movement at the top left bar. 

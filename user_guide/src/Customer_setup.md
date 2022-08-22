@@ -1,4 +1,4 @@
-# Customer Setup #
+# Customer Setup
 This feature allows the user to perform all the necessary activities pertaining to the customer.<br>
 The user can perform the following tasks;<br>
 1. Onboarding New Customer Groups

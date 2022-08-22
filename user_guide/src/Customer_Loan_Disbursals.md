@@ -1,4 +1,4 @@
-# How to make Loan Disbursals #
+# How to make Loan Disbursals
 - On the main menu click on customer setup tab.
 - On the drop down menu select loan disbursal.
 - On the loan disbursal page click on the new disbursal tab.

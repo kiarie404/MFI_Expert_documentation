@@ -1,4 +1,4 @@
-# Setting up Branches #
+# Setting up Branches
 ![How to set up branches o the mfiexpert system](./images/Branches.png "Branch Setup")
 ***Setting up Branches***
 

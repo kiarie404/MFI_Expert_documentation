@@ -1,4 +1,4 @@
-# Customer Modification #
+# Customer Modification
 - On the main menu click on customer setup tab.
 - On the drop down menu click on the customer modification tab.
 - On the customer modification page click on the new modification tab at the top left bar.

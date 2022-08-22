@@ -1,4 +1,4 @@
-# Setting up Charges #
+# Setting up Charges
 ![How to setup charges on the mfiexpert system](./images/Setting_up_Charges.png "Charges Setup")
 ***Setting up Charges***
 

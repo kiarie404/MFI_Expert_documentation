@@ -76,10 +76,25 @@ a > .hljs {
 }
 
 .right-buttons {
+    display: flex;
     margin: 0 15px;
 }
 .right-buttons a {
     text-decoration: none;
+}
+
+.logo_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo_picture{
+    width: 100%;
+    height: 24px;
+    max-width: auto;
+    max-height: auto;
+    border-radius: 50%;
 }
 
 .left-buttons {
@@ -531,4 +546,13 @@ ul#searchresults span.teaser em {
 .theme-popup .theme:hover:last-child {
     border-top-left-radius: inherit;
     border-top-right-radius: inherit;
+}
+
+
+
+/* my own */
+.content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;   /* this line ensures each page is not cut when printing to pdf */
 }

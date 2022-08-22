@@ -1,4 +1,4 @@
-# Setting up Referral Types #
+# Setting up Referral Types
 ![How to setup a new referral type on the mfiexpert system](./images/Referral_types_setup.png "Setting up Referral Types")
 ***Setting up Referral Types***
 

@@ -1,4 +1,4 @@
-# Customer Transactions #
+# Customer Transactions
 This feature in the system allows the user to perform all necessary activities related to account transactions.<br>
 The user can perform the following tasks;<br>
 1. Deposits
